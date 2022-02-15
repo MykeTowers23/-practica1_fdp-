@@ -1,2 +1,2 @@
 # -practica1_fdp-
-Mi repositorio (Diego Vázquez López)
+control sem 2022-2
